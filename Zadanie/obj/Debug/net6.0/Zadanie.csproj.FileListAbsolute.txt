@@ -1,0 +1,14 @@
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\bin\Debug\net6.0\Zadanie.exe
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\bin\Debug\net6.0\Zadanie.deps.json
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\bin\Debug\net6.0\Zadanie.runtimeconfig.json
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\bin\Debug\net6.0\Zadanie.dll
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\bin\Debug\net6.0\Zadanie.pdb
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\obj\Debug\net6.0\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\obj\Debug\net6.0\Zadanie.AssemblyInfoInputs.cache
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\obj\Debug\net6.0\Zadanie.AssemblyInfo.cs
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\obj\Debug\net6.0\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\obj\Debug\net6.0\Zadanie.dll
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\obj\Debug\net6.0\refint\Zadanie.dll
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\obj\Debug\net6.0\Zadanie.pdb
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\obj\Debug\net6.0\Zadanie.genruntimeconfig.cache
+C:\Users\sayan\Desktop\Progi\C#\Zadanie\obj\Debug\net6.0\ref\Zadanie.dll
